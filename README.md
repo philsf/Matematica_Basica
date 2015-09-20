@@ -7,7 +7,7 @@ Proporcionar ao estudante um nivelamento de tópicos de matemática básica, em 
 ## Listas de exercícios
 
 * [Conjuntos numéricos e operações básicas](https://github.com/philsf/Matematica_Basica/raw/master/MB-lista-operacoes_basicas-exercicios.pdf) - [Gabarito](https://github.com/philsf/Matematica_Basica/raw/master/MB-lista-operacoes_basicas-gabarito.pdf)
-* Produto cartesiano, Relações e Definição de função - Gabarito
+* [Produto cartesiano, Relações e Definição de função](https://github.com/philsf/Matematica_Basica/raw/master/MB-lista-relacoes-exercicios.pdf) - [Gabarito](https://github.com/philsf/Matematica_Basica/raw/master/MB-lista-relacoes-gabarito.pdf)
 * Função e equação do primeiro grau - Gabarito
 * Função e equação do segundo grau - Gabarito
 * Potenciação, Equações exponenciais, Função Exponencial e Logaritmos - Gabarito
